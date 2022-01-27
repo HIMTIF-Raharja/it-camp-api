@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "name":"Airpods Wireless Bluetooth Headphones",
+        "image":"https://i5.walmartimages.com/asr/f4b3e342-d993-4a64-93bd-2a0069e96d51_1.31e52f578b39dc8333c4698d3fa47774.jpeg",
+        "description":"Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+        "price":89.99
+    },
+    {
+        "id":"2",
+        "name":"iPhone 11 Pro 256GB Memory",
+        "image":"https://www.nileintl.com/wp-content/uploads/2021/01/1-6.jpg",
+        "description":"Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+        "price":599.99
+    },
+    {
+        "id":"3",
+        "name":"Cannon EOS 80D DSLR Camera",
+        "image":"https://th.bing.com/th/id/OIP.Hxw_ymVdYvKQ7FW7ESRRcwHaHa?pid=ImgDet&rs=1",
+        "description":"Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+        "price":929.99
+    },
+    {
+        "id":"4",
+        "name":"Sony Playstation 4 Pro White Version",
+        "image":"https://d11zer3aoz69xt.cloudfront.net/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/s/o/sony_playstation_4_pro_1tb_console_white_1.jpg",
+        "description":"The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+        "price":399.99
+    },
+    {
+        "id":"5",
+        "name":"Logitech G-Series Gaming Mouse",
+        "image":"https://www.sandobiz.co.id/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/l/o/logitech_gaming_-_g_brand_series_g_402_gaming_mouse.jpg",
+        "description":"Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+        "price":49.99
+    }
+]
